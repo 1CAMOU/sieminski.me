@@ -69,7 +69,7 @@
       <p class="text-white font-normal text-sm">Dec 2021</p>
       <a
         class="text-primary font-normal text-sm opacity-80 hover:opacity-100 transition"
-        href="#"
+        href="my-tools"
         target="_blank"
         rel="noopener noreferrer">My tools</a
       >
