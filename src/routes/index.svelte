@@ -136,3 +136,11 @@
     </li>
   </ul>
 </section>
+
+<section>
+  <a
+    class="text-primary font-normal text-sm opacity-80 hover:opacity-100 transition pt-24"
+    href="/imprint"
+    rel="noopener noreferrer">Imprint</a
+  >
+</section>
